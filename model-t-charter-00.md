@@ -64,6 +64,6 @@ Expected outputs from the programmme include:
   models  
 
 The IAB intends seeks community feedback on this programme charter (but work
-has already started informally) either on archietcure-discuss@iab.org or via
+has already started informally) either on architecture-discuss@iab.org or via
 this github repository.
 
