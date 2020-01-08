@@ -55,6 +55,10 @@ announced on the mailing list (currently one planned for February 14)
 and physical meetings during an IETF meeting (currently one planned
 for IETF-107) will be found from the IETF meeting agenda.
 
+The program is created for the initial six months, after which
+progress is reviewed to determine whether the program needs further
+work.
+
 Expected outputs from the programmme include:
 
 - Text to offer to the IETF as a possible update to BCP72
