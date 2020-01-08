@@ -1,7 +1,6 @@
 
 # Draft charter for an IAB programme on the Internet trust model (model-t)
-Stephen, 20191220 
-Jari, 20200108
+Stephen, 20191220; Jari, 20200108
 
 RFC3552/BCP72 describes the trust model that has been used in Internet protocol
 design. Since that was written however, the world has changed in terms of the
