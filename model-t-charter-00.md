@@ -28,8 +28,7 @@ to justify or further elucidate the proposed update to BCP72. Those background
 documents don't have to adhere to the same constraints as an update to BCP72.
 
 There is relatively broad agreement that the roles and trustwortiness of different
-endpoints in a protocol exchange are important considerations.  
-In specific cases there may be
+endpoints in a protocol exchange are important considerations. In specific cases there may be
 quite different perspectives on the tradeoffs involved, e.g., to
 what extent privacy, information centralisation, or the needs of
 enterprise networks should be considered as the highest priority.  And
@@ -70,5 +69,5 @@ has already started informally) either on architecture-discuss@iab.org, on
 the model-t@iab.org list or via this github repository. [1]
 
 
-[1] https://github.com/intarchboard/model-t-charter/edit/master/model-t-charter-00.md
+[1] https://github.com/intarchboard/model-t-charter/blob/master/model-t-charter-00.md
 
