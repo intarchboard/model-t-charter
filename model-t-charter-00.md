@@ -36,9 +36,9 @@ no doubt, other equally valid perspectives exist. The model-t
 program is not a venue for attempting to determine the one true
 perspective from which to tackle specific priorities. Our hope is that,
 regardless of what one considers highest priority, 
-there is sufficient overlap in the conclusions one would reach, such
-that general guidance for considering these issues in an updated BCP72
-is something on which consensus could be reached (in the IETF).
+there is joint interest in taking these issues into consideration
+in protocol work, so that consensus for including this consideration
+in an updated BCP72 could be reached (in the IETF).
 
 Participants of the program are drawn from the IAB and the rest of the
 community. Participation in this program is open to all interested
