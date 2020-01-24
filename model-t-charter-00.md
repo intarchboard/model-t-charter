@@ -1,7 +1,7 @@
 
-# Draft charter for an IAB program on the Internet trust model (model-t)
+# Draft charter for an IAB program on the Internet threat model (model-t)
 
-RFC3552/BCP72 describes the trust model that has been used in Internet protocol
+RFC3552/BCP72 describes the threat model that has been used in Internet protocol
 design. Since that was written however, the world has changed in terms of the
 threats experienced and in terms of how protocol endpoints are implemented and
 deployed.  It is therefore timely to re-consider the threat model used in the
