@@ -10,7 +10,13 @@ so to justify an IAB program on this topic.
 
 The model-t program provides an open venue for analysis of the Internet threat
 model and has as a goal to produce a potential update to BCP72 that defines an
-Internet threat model that better matches today's reality. 
+Internet threat model that better matches today's reality. Specifically,
+the intent is to document why an update is needed and provide a suggested 
+update that could be considered by the IETF. A potential BCP72 update would
+likely extend the set of threats considered. Reducing the protection offered 
+by current comsec mechanisms is a non-goal. Similarly, re-consideration of 
+the parts of BCP72 that are outside the very narrow part on Internet threat
+model is not in scope.
 
 The potential update to BCP72 would be text offered to the IETF for
 consideration - it is not within the IAB's remit, nor that of an IAB program,
