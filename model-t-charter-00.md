@@ -9,14 +9,18 @@ design of IETF protocols, and there appears to be sufficient interest in doing
 so to justify an IAB program on this topic.
 
 The model-t program provides an open venue for analysis of the Internet threat
-model and has as a goal to produce a potential update to BCP72 that defines an
-Internet threat model that better matches today's reality. Specifically,
+model and environment and has as a goal to produce a potential update to BCP72 
+that defines an Internet threat model that better matches today's reality and/or 
+better describes the current threat environment. Specifically,
 the intent is to document why an update is needed and provide a suggested 
 update that could be considered by the IETF. A potential BCP72 update would
 likely extend the set of threats considered. Reducing the protection offered 
 by current comsec mechanisms is a non-goal. Similarly, re-consideration of 
 the parts of BCP72 that are outside the very narrow part on Internet threat
-model is not in scope.
+model and the current threat environment are not in scope. (Should there be
+a desire within the program to do more, then consideration could be given
+to extending the scope and phasing the work, but initially, the scope is 
+limited as  described here.)
 
 The potential update to BCP72 would be text offered to the IETF for
 consideration - it is not within the IAB's remit, nor that of an IAB program,
@@ -64,11 +68,11 @@ the IAB will review progress.
 
 Expected outputs from the programmme include:
 
-- Text to offer to the IETF as a possible update to BCP72
+- RFCs and other documents proposing, justifying and explaining new threat
+  models and the current threat environment
 - RFCs and other documents analysing how BCP72 matches (or doesn't match)
   today's reality
-- RFCs and other documents proposing, justifying and explaining new threat
-  models  
+- Text to offer to the IETF as a possible update to BCP72
 
 The IAB are happy to get community feedback on this program charter (but work
 has already started informally) either on architecture-discuss@iab.org, on
